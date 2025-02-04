@@ -24,7 +24,7 @@
 | 微調腳本 |
 | ------- |
 | [Mx Linux Kde Plasma Config](https://github.com/samwhelp/mxlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-config) |
-| [Tool Config](https://github.com/samwhelp/mxlinux-kde-plasma-adjustment/tree/main/prototype/main/tool-config/part) |
+| [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
