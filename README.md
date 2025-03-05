@@ -26,7 +26,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Mx Linux Kde Plasma Config](https://github.com/samwhelp/mxlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-config) |
+| [Mx Linux Kde Plasma Config](https://github.com/samwhelp/mxlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Breeze-Dark) |
 | [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
