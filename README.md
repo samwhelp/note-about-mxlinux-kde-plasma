@@ -66,6 +66,10 @@
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Linux Mint 探索筆記](https://samwhelp.github.io/note-about-linuxmint/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint) |
+| [Manjaro Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-manjaro-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-manjaro-kde-plasma) |
+| [Kde 探索筆記](https://samwhelp.github.io/note-about-kde/) | [GitHub](https://github.com/samwhelp/note-about-kde) |
+| [Kde Neon 探索筆記](https://samwhelp.github.io/note-about-kde-neon/) | [GitHub](https://github.com/samwhelp/note-about-kde-neon) |
+| [Kubuntu 探索筆記](https://samwhelp.github.io/note-about-kubuntu/) | [GitHub](https://github.com/samwhelp/note-about-kubuntu) |
 
 
 
