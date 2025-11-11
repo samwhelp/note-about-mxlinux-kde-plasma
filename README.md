@@ -4,9 +4,9 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Mx Linux Kde Plasma Adjustment](https://samwhelp.github.io/mxlinux-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-kde-plasma-adjustment) |
-| [Mx Linux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-mxlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-kde-plasma) |
-| [Mx Linux 探索筆記](https://samwhelp.github.io/note-about-mxlinux/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux) |
+| [MxLinux Kde Plasma Adjustment](https://samwhelp.github.io/mxlinux-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/mxlinux-kde-plasma-adjustment) |
+| [MxLinux Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-mxlinux-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux-kde-plasma) |
+| [MxLinux 探索筆記](https://samwhelp.github.io/note-about-mxlinux/) | [GitHub](https://github.com/samwhelp/note-about-mxlinux) |
 
 
 > [鍵盤按鍵綁定一覽表](https://samwhelp.github.io/note-about-mxlinux-kde-plasma/read/cheatsheet/keybind.html)
@@ -30,7 +30,7 @@
 
 | 微調腳本 |
 | ------- |
-| [Mx Linux Kde Plasma Config](https://github.com/samwhelp/mxlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
+| [MxLinux Kde Plasma Config](https://github.com/samwhelp/mxlinux-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
 | [Tool Config](https://github.com/samwhelp/mxlinux-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
